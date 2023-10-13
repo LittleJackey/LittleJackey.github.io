@@ -1,5 +1,5 @@
-let myHeading = document.querySelector('h1');
+let myHeading = document.querySelector("h1");
 
-document.addEventListener('click', () => {
-    alert('Hello');
+myHeading.addEventListener("click", () => {
+    alert("Hello");
 })
